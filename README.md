@@ -292,3 +292,19 @@ All configuration is driven by environment variables. See `.env.example` for the
 - ✅ **Voice Agent** — speak questions, hear answers (Whisper STT + OpenAI TTS)
 - ✅ `/voice` endpoint accepts audio files (WAV/MP3/WebM), returns MP3
 - ✅ Configurable TTS voice and model
+
+---
+
+## Author
+
+**Umair Ali** — Machine Learning Engineer
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/umair-machine-learning-engineer/)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:aumair472@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/aumair472)
+
+---
+
+## License
+
+MIT License — feel free to use and modify.
