@@ -1,0 +1,42 @@
+# === Core Framework ===
+fastapi>=0.110.0
+uvicorn[standard]>=0.27.1
+pydantic>=2.6.1
+pydantic-settings>=2.1.0
+python-multipart>=0.0.9
+
+# === OpenAI ===
+openai>=1.12.0
+
+# === Embeddings & Re-ranking ===
+sentence-transformers>=2.3.1
+torch>=2.5.0
+
+# === Vector Store ===
+faiss-cpu>=1.7.4
+numpy>=1.26.4
+pandas>=2.2.0
+
+# === Document Processing ===
+PyMuPDF>=1.23.22
+python-pptx>=0.6.23
+pydub>=0.25.1
+
+# === Caching ===
+redis>=5.0.1
+
+# === Rate Limiting ===
+slowapi>=0.1.9
+
+# === Evaluation ===
+ragas>=0.1.7
+datasets>=2.17.1
+langchain>=0.1.6
+langchain-openai>=0.0.5
+
+# === Logging ===
+python-json-logger>=2.0.7
+
+# === Utilities ===
+httpx>=0.26.0
+tenacity>=8.2.3
